@@ -1,0 +1,31 @@
+#rodape .institucional * {
+  color: #9b3086;
+}
+#rodape .titulo {
+  color: #000;
+}
+#rodape .redes-sociais li {
+  border: none;
+  padding: 0 0.25rem;
+}
+#rodape .redes-sociais li a i {
+  border-radius: 50%;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#rodape .institucional,
+#rodape .redes-sociais,
+#rodape .pagamento-selos {
+  background: none;
+  box-shadow: none;
+}
+#rodape .institucional {
+  background-color: #fcfcfc;
+}
+#rodape .pagamento-selos {
+  background-color: #f2f2f2;
+}
+
+/*# sourceMappingURL=style.css.map */
